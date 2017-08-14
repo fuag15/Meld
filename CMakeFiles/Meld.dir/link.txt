@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/Meld.dir/main.cpp.o  -o Meld -lglfw -lrt -lm -ldl -lXrandr -lXinerama -lXxf86vm -lXext -lXcursor -lXrender -lXfixes -lX11 -lpthread -lxcb -lXau -lXdmcp /usr/lib64/libjpeg.so /usr/lib64/libvulkan.so 

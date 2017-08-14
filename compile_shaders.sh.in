@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+@LUNARG_SDK_PATH@/bin/glslangValidator -V ./shaders/shader.frag -o ./shaders/frag.spv
+@LUNARG_SDK_PATH@/bin/glslangValidator -V ./shaders/shader.vert -o ./shaders/vert.spv
